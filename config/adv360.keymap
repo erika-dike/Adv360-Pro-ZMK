@@ -80,11 +80,11 @@
 
         layer_My_base {
             bindings = <
- &kp DEL  &trans  &trans  &trans  &trans  &trans               &trans                                                         &trans  &trans  &trans  &trans  &trans  &trans  &kp LGUI
-  &trans  &trans  &trans  &trans  &trans  &trans                &to 0                                                         &trans  &trans  &trans  &trans  &trans  &trans    &trans
-  &trans  &trans  &trans  &trans  &trans  &trans            &kp EQUAL    &trans  &trans                  &kp RALT  &trans  &kp MINUS  &trans  &trans  &trans  &trans  &trans    &trans
-  &trans  &trans  &trans  &trans  &trans  &trans                                 &trans                    &trans                     &trans  &trans  &trans  &trans  &trans    &trans
-  &trans  &trans  &trans  &trans  &trans                       &trans  &kp LGUI  &trans                    &trans  &trans     &trans          &trans  &trans  &trans  &trans    &trans
+ &kp EQUAL  &trans  &trans  &trans  &trans  &trans             &trans                                                        &trans  &trans  &trans  &trans  &trans  &trans  &kp MINUS
+    &trans  &trans  &trans  &trans  &trans  &trans              &to 0                                                        &trans  &trans  &trans  &trans  &trans  &trans     &trans
+    &trans  &trans  &trans  &trans  &trans  &trans            &kp DEL    &trans  &trans                  &kp RALT  &trans  &kp RGUI  &trans  &trans  &trans  &trans  &trans     &trans
+    &trans  &trans  &trans  &trans  &trans  &trans                               &trans                    &trans                    &trans  &trans  &trans  &trans  &trans     &trans
+    &trans  &trans  &trans  &trans  &trans                     &trans  &kp LGUI  &trans                    &trans  &trans    &trans          &trans  &trans  &trans  &trans     &trans
             >;
         };
 
