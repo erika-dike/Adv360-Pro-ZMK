@@ -39,7 +39,7 @@
           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",             "&to 0",                                                                            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&kp DEL",   "&trans", "&trans",                     "&kp RALT",         "&trans", "&kp ENTER", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                  "&trans",                       "&trans",                                "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
-          "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI", "&trans",                       "&trans", "&mt ENTER RGUI",    "&trans",           "&trans", "&trans", "&trans", "&trans",    "&trans"
+          "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI", "&trans",                       "&trans", "&mt RGUI ENTER",    "&trans",           "&trans", "&trans", "&trans", "&trans",    "&trans"
     ]
   ]
 }
