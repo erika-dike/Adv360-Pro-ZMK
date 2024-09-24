@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&kp EQUAL", "&trans", "&trans", "&trans", "&trans", "&trans",            "&trans",                                                                      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp MINUS",
-          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",             "&to 0",                                                                      "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
-          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&kp DEL",   "&trans", "&trans",                     "&kp RALT",   "&trans", "&kp ENTER", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
-          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                  "&trans",                       "&trans",                          "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
-          "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI", "&trans",                       "&trans", "&kp RGUI",    "&trans",           "&trans", "&trans", "&trans", "&trans",    "&trans"
+       "&kp EQUAL", "&trans", "&trans", "&trans", "&trans", "&trans",            "&trans",                                                                            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp MINUS",
+          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",             "&to 0",                                                                            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
+          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&kp DEL",   "&trans", "&trans",                     "&kp RALT",         "&trans", "&kp ENTER", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
+          "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                  "&trans",                       "&trans",                                "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",
+          "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI", "&trans",                       "&trans", "&mt ENTER RGUI",    "&trans",           "&trans", "&trans", "&trans", "&trans",    "&trans"
     ]
   ]
 }
