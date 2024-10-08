@@ -44,7 +44,7 @@
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&trans",                                                                           "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",
        "&trans", "&trans", "&trans",  "&kp F",  "&kp P",  "&kp B",             "&to 0",                                                                            "&to 4",  "&kp J",  "&kp L",  "&kp U",  "&kp Y", "&kp SEMI", "&trans",
-       "&trans", "&trans",  "&kp R",  "&kp S",  "&kp T", "&trans",           "&kp DEL",   "&trans", "&trans",                     "&kp RALT",         "&trans", "&kp RGUI",  "&kp E",  "&kp N",  "&kp E",  "&kp I",    "&kp O", "&trans",
+       "&trans", "&trans",  "&kp R",  "&kp S",  "&kp T", "&trans",           "&kp DEL",   "&trans", "&trans",                     "&kp RALT",         "&trans", "&kp RGUI",  "&kp M",  "&kp N",  "&kp E",  "&kp I",    "&kp O", "&trans",
        "&trans", "&trans", "&trans", "&trans",  "&kp D",  "&kp V",                                  "&trans",                       "&trans",                                "&kp K",  "&kp H", "&trans", "&trans",   "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI", "&trans",                       "&trans", "&mt RGUI ENTER",   "&trans",           "&trans", "&trans", "&trans",   "&trans", "&trans"
     ]
