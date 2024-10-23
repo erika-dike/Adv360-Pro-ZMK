@@ -7,7 +7,6 @@
     "keypad",
     "fn",
     "mod",
-    "My base",
     "Colemak dh"
   ],
   "layers": [
@@ -36,17 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&trans",                                                                            "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",             "&to 0",                                                                             "&to 5", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&kp DEL",   "&trans", "&trans",                     "&kp RALT",         "&trans", "&kp ENTER", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                                  "&trans",                       "&trans",                                "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI", "&trans",                       "&trans", "&mt RGUI ENTER",    "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
-    ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",            "&trans",                                                                               "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",
-       "&trans", "&trans", "&trans",  "&kp F",  "&kp P",  "&kp B",             "&to 0",                                                                                "&to 4",  "&kp J",  "&kp L",  "&kp U",  "&kp Y", "&kp SEMI", "&trans",
-       "&trans", "&trans",  "&kp R",  "&kp S",  "&kp T", "&trans",           "&kp DEL", "&kp HOME",   "&kp END",                     "&kp PG_DN",      "&kp PG_UP", "&kp RGUI",  "&kp M",  "&kp N",  "&kp E",  "&kp I",    "&kp O", "&trans",
-       "&trans", "&trans", "&trans", "&trans",  "&kp D",  "&kp V",                                  "&kp LCTRL",                     "&kp RCTRL",                                "&kp K",  "&kp H", "&trans", "&trans",   "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                      "&trans", "&kp LGUI",  "&kp LALT",                      "&kp RALT", "&mt RGUI ENTER",   "&trans",           "&trans", "&trans", "&trans",   "&trans", "&trans"
+              "&trans", "&trans", "&trans", "&trans",  "&trans", "&trans",            "&trans",                                                                                   "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans",        "&trans",
+              "&trans", "&trans", "&trans",  "&kp F",   "&kp P",  "&kp B",             "&to 0",                                                                                    "&to 4",  "&kp J",  "&kp L",  "&kp U",  "&kp Y", "&kp SEMI",        "&trans",
+       "&mt LCTRL ESC", "&trans",  "&kp R",  "&kp S", "&lt 1 T", "&trans",           "&kp DEL", "&kp LCTRL", "&kp HOME",                     "&kp PG_UP",      "&kp RCTRL", "&macro_hyper",  "&kp M",  "&kp N",  "&kp E",  "&kp I",    "&kp O", "&mt RCTRL SQT",
+              "&trans", "&trans", "&trans", "&trans",   "&kp D",  "&kp V",                                    "&kp END",                     "&kp PG_DN",                                    "&kp K",  "&kp H", "&trans", "&trans",   "&trans",        "&trans",
+              "&trans", "&trans", "&trans", "&trans",  "&trans",                      "&trans",  "&kp LGUI", "&kp LALT",                      "&kp RALT", "&mt RGUI ENTER",       "&trans",           "&trans", "&trans", "&trans",   "&trans",        "&trans"
     ]
   ]
 }
