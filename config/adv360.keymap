@@ -39,7 +39,7 @@
                 <&macro_press>,
                 <&kp LSHFT &kp LGUI &kp LCTRL &kp LALT>,
                 <&macro_release>,
-                <&kp LSHFT &kp LGUI &kp LCTRL &kp LALT>;
+                <&kp LALT &kp LCTRL &kp LGUI &kp LSHFT>;
 
             label = "HYPER";
         };
